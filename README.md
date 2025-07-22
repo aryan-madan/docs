@@ -1,44 +1,38 @@
-# Mintlify Starter Kit
+# Get Started
 
-Use the starter kit to get your docs deployed and ready to customize.
+<img 
+  className="block dark:hidden" 
+  src="/images/image-light.png" 
+  alt="Light mode interface"
+/>
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+<img 
+  className="hidden dark:block" 
+  src="/images/image-dark.png" 
+  alt="Dark mode interface"
+/>
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+## Welcome to Cortex
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+**Cortex** is the unified platform designed to bring clarity and focus to your academic life.
 
-## Development
+Say goodbye to juggling a dozen apps - Cortex brings together your **tasks**, **notes**, and **collaborative tools** into one intelligent workspace.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+---
 
-```
-npm i -g mint
-```
+### Why Cortex?
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+Our mission is to provide a seamless and powerful environment that helps you **study smarter, not harder**. By centralizing your workflow, Cortex:
 
-```
-mint dev
-```
+- Minimizes distractions
+- Maximizes productivity
+- Keeps you focused on what truly matters: _learning and discovery_
 
-View your local preview at `http://localhost:3000`.
+---
 
-## Publishing changes
+### About This Guide
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+This documentation is your all-in-one resource for navigating Cortex.\
+Whether you're a **new user** or looking to **master advanced tools**, you'll find everything you need right here.
 
-## Need help?
-
-### Troubleshooting
-
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
-
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
-- [Mintlify community](https://mintlify.com/community)
+---
